@@ -14,6 +14,8 @@ Python: The backend language used for processing the PDF and chats.
 # Installation
 1.Clone the repository:
 git clone https://github.com/Savadimihir2003/multi_pdf_chat.git
+
+
 cd multi_pdf_chat
 
 2.Create a virtual environment (optional but recommended):
@@ -39,6 +41,14 @@ Python 3.7+
 Streamlit
 LangChain
 Any other dependencies specified in requirements.txt
+
+
+![Screenshot (80)](https://github.com/user-attachments/assets/4017db0c-16a7-403e-8d4c-c6b7891176f6)
+
+
+
+# Demo
+You can find a live demo of the app at [Demo Link] (optional).
 
 
 
