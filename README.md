@@ -47,8 +47,7 @@ Any other dependencies specified in requirements.txt
 
 
 
-# Demo
-You can find a live demo of the app at(https://multipdfchat-2003.streamlit.app/) (optional).
+
 
 
 
